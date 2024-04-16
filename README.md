@@ -34,6 +34,6 @@ In AWS CodePipeline, linked Github account to AWS, allowing CodePipeline to have
 <img src="https://imgur.com/tWTBm8i.png" height="80%" width="80%" alt="cicd pipeline"/>
 <br />
 <br />
-Tested the pipeline by inserting an additional photo within the index.html file in GitHub and checking that the file updated in the bucket. Execution history also showed successful pipeline and webiste ow displayed the new photo:  <br/>
+Tested the pipeline by inserting an additional photo within the index.html file in GitHub and checking that the file updated in the bucket. Execution history also showed successful pipeline and website now displayed the new photo:  <br/>
 <img src="https://imgur.com/C9uolBb.png" height="80%" width="80%" alt="cicd pipeline"/>
 </p>
